@@ -1,5 +1,5 @@
 # Maze Solver
-Maze Solver made for CS 242
+Maze Solver made for Programming Studio Course
 
 # Description
 The purpose of this assignment was to teach students:
